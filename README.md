@@ -15,4 +15,5 @@ As part of this bootcamp I have completed 53 projects, including 7 capstone proj
 During the course of this bootcamp I have also learnt about the different database management systems and have had practice using SQLite to create a simple database that simulates a bookstores online stock records. 
 
 I am currently open to work and can be contacted on my LinkedIn which is linked below. 
+
 https://www.linkedin.com/in/edward-walker-83055a253/
