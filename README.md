@@ -2,7 +2,7 @@
 
 # About Me:
 
-I'm currently enrolled on Hyperion Dev's **first government funded Bootcamp** studying Data Science.
+I have recently graduated Hyperion Dev's **first government funded Bootcamp** studying Data Science, finishing 4th out of 250 students and acheiving an overall score of 100%.
 
 As part of this bootcamp I have completed 53 projects, including 7 capstone projects which have taken me all the way from understanding the basics of popular programming languages such as Python to complicated supervised and unsupervised machine learning techniques. These techniques include but are not limited to; 
 - Simple and Multiple Linear Regression Models
